@@ -7,6 +7,13 @@ import Gallery6 from "../../images/sliderImg2.jpg";
 import Gallery7 from "../../images/sliderImg3.jpg";
 import Gallery8 from "../../images/sliderImg4.jpg";
 
+import Gallery9 from "../../images/gallery9.jpg";
+import Gallery10 from "../../images/gallery10.jpg";
+import Gallery11 from "../../images/gallery11.jpg";
+import Gallery12 from "../../images/gallery12.jpg";
+import Gallery13 from "../../images/gallery13.jpg";
+import Gallery14 from "../../images/gallery14.jpg";
+
 const content = [
   {
     id: 1,
@@ -39,6 +46,31 @@ const content = [
   {
     id: 8,
     image: Gallery8,
+  },
+
+   {
+    id: 9,
+    image: Gallery9,
+  },
+  {
+    id: 10,
+    image: Gallery10,
+  },
+  {
+    id: 11,
+    image: Gallery11,
+  },
+  {
+    id: 12,
+    image: Gallery12,
+  },
+  {
+    id: 13,
+    image: Gallery13,
+  },
+  {
+    id: 14,
+    image: Gallery14,
   },
 ];
 
